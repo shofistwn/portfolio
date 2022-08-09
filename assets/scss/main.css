@@ -165,7 +165,7 @@ body {
 }
 
 #section-hero {
-  background-image: url("/assets/media/hero.svg");
+  background-image: url("/portfolio/assets/media/hero.svg");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -243,7 +243,7 @@ body {
     padding: 60px;
   }
   .body-service {
-    background-image: url("/assets/media/service.svg");
+    background-image: url("/portfolio/assets/media/service.svg");
     background-position: center left;
     background-repeat: no-repeat;
     background-size: 40%;
